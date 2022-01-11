@@ -1,2 +1,2 @@
 # libeasings
-C Easing Functions
+C Easing Functions (code: https://easings.net/)
