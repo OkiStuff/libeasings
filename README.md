@@ -1,0 +1,2 @@
+# libeasings
+C Easing Functions
